@@ -1,0 +1,31 @@
+project:
+
+  type: website
+
+
+website:
+
+  title: "Get great insurance: <b>get piedmont</b>.com"
+
+  navbar:
+    background: "#3498db"
+    foreground: "#005"
+    left:
+      # - href: index.qmd
+      #   text: Home
+      - href: products.qmd
+        text: "Insurance Products"
+      - href: about.qmd
+        text: "Meet Jill"
+
+
+format:
+  html:
+    search: false
+    theme:
+      - cosmo
+      - brand
+
+    css: styles.scss
+    toc: false
+
