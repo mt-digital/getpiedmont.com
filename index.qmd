@@ -2,7 +2,9 @@
 
 ## With Jill Piedmont: _She Knows Insurance_ {#subtitle}
 
-<img class="circle-container" src="images/jill.jpg"/>
+<div class="circle-container">
+  <img src="images/jill.jpg" alt="Jill Piedmont Derleth">
+</div>
 
 <p style="margin-top: 1.25em; margin-bottom: 1.5em;">
 One thing we might all agree on these days is that insurance feels broken, like
@@ -20,8 +22,8 @@ Now I am a licensed broker and contracted with a wide range of insurance
 companies. I offer a variety of insurance products in all 50 states---not
 just health insurance.
 
-It would be an honor to help you navigate Medicare or health insurance for those
-under 65 years old. I can help you find ancillary support, such as
+It would be an honor to help you navigate Medicare, or health insurance for
+those under 65 years old. I can help you find ancillary support, such as
 disability or critical illness insurance, travel insurance, and several other
 options to protect you and your family. I look forward to hearing from you!
 
