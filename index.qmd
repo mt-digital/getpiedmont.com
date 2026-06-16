@@ -2,7 +2,10 @@
 
 ## With Jill Piedmont: _She Knows Insurance_ {#subtitle}
 
-![](images/jill.jpg){.circle-img}
+<div id="hero-photo">
+  <img src="images/jill.jpg" alt="Jill Piedmont Derleth"/>
+</div>
+
 
 <p style="margin-top: 1.25em; margin-bottom: 1.5em;">
 One thing we might all agree on these days is that insurance feels broken, like

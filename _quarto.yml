@@ -27,8 +27,9 @@ format:
     theme:
       - cosmo
       - brand
+      - styles.scss
 
-    css: styles.scss
+    # css: styles.scss
     toc: false
 
 
