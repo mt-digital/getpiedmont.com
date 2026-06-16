@@ -19,7 +19,15 @@ website:
       - href: about.qmd
         text: "More About Jill"
 
+  favicon: favicon.png
+
   search: false
+
+  open-graph:
+    image: images/jill.jpg
+  twitter-card:
+    image: images/jill.jpg
+    card-style: summary_large_image
 
 format:
 
