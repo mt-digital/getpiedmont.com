@@ -1,26 +1,28 @@
-project:
-
-  type: website
+##
+# Defines site data and metadata
+#
+# Author: Matt Turner <matt@mat.phd>
+# Date: 15 June 2026
+#
 
 
 website:
 
-  title: "Get great insurance: <b>get piedmont</b>.com"
+  title: "<b>Get Piedmont</b> Insurance"
 
   navbar:
     background: "#3498db"
     foreground: "#005"
     left:
-      # - href: index.qmd
-      #   text: Home
-      - href: products.qmd
-        text: "Insurance Products"
       - href: about.qmd
-        text: "Meet Jill"
+        text: "More About Jill"
 
+  search: false
 
 format:
+
   html:
+
     search: false
     theme:
       - cosmo
@@ -29,3 +31,6 @@ format:
     css: styles.scss
     toc: false
 
+
+project:
+  type: website

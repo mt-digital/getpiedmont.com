@@ -1,6 +1,6 @@
 # _Get Piedmont_ Insurance
 
-## With Jill Piedmont, who Knows a Thing Or Two {#subtitle}
+## With Jill Piedmont: _She Knows Insurance_ {#subtitle}
 
 <img class="circle-container" src="images/jill.jpg"/>
 
@@ -17,21 +17,36 @@ same time.**
 
 
 Now I am a licensed broker and contracted with a wide range of insurance
-companies. I offer many varieties of insurance products in all 50 states, not
+companies. I offer a variety of insurance products in all 50 states---not
 just health insurance.
 
-However, I do also specialize in Medicare, health insurance for those under 65
-years old as well as ancillary products such as disability, critical illness,
-hospital, cancer, travel, etc. to protect you and your family. I look forward to
-assisting you with your insurance needs!
+It would be an honor to help you navigate Medicare or health insurance for those
+under 65 years old. I can help you find ancillary support, such as
+disability or critical illness insurance, travel insurance, and several other
+options to protect you and your family. I look forward to hearing from you!
+
+Please feel free to contact me by phone or email.
+
+I also invite to use the form below to tell me more about you and how I can help.
+I will use the information you provide to research preliminary options, then
+contact you as soon as possible to discuss your options.
 
 <br>
 
-<p style="text-align: center">
-Phone: <a href="tel:+15855586919">(585) 558-6919<a/>
-| Email: [jillderlethinsurance@gmail.com](mailto:jillderlethinsurance@gmail.com) | NPN:
-16461013
+<p style="text-align: center">  <!--; font-size: 0.95rem;"> -->
+
+  <i title='Phone' class='fa-solid fa-phone'></i>
+    <span style="margin-right: 10px;"></span>
+    <a href="tel:+15855586919">(585) 558-6919</a> <span style="margin-right: 10px;"></span>|<span style="margin-right: 10px;"></span>
+  <i title='Email' class='fa-solid fa-envelope'>
+   <span style="margin-right: 10px;"></span>
+   </i> [jill@getpiedmont.com](mailto:jill@getpiedmont.com)
+   <span style="margin-right: 10px;"></span>|<span style="margin-right: 10px;"></span>
+    NPN: 16461013
 </p>
 
+<br>
 
+<!-- GOOGLE FORM HERE!!!! -->
 
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeXGgfIGxfxbbvX0NgqIiCvu-ggiUP18GAKP_W6N9-AdZB9Bw/viewform?embedded=true" width="640" height="3203" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
