@@ -101,9 +101,7 @@ ul.task-list li input[type="checkbox"] {
 <h1><em>Get Piedmont</em> Insurance</h1>
 <section id="subtitle" class="level2">
 <h2 class="anchored" data-anchor-id="subtitle">With Jill Piedmont: <em>She Knows Insurance</em></h2>
-<div class="circle-container">
-<img src="images/jill.jpg" alt="Jill Piedmont Derleth">
-</div>
+<p><img class="circle-img" src="images/jill.jpg" alt="Jill Piedmont Derleth"></p>
 <p style="margin-top: 1.25em; margin-bottom: 1.5em;">
 </p><p>One thing we might all agree on these days is that insurance feels broken, like sometimes no one is there to get us the help we need.</p>
 I know. After another car crashed into mine years ago, my mobility was never the same. <strong>I’ve battled big insurance companies while battling to walk again at the same time.</strong>
@@ -202,7 +200,7 @@ Loading…
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp('/' + window.location.host + '/');
+        var filterRegex = new RegExp("https:\/\/getpiedmont\.com");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
